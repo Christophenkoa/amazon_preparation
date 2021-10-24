@@ -126,11 +126,9 @@ int main() {
 
     PrintL();
 
-    printf("The top element is: %d \n", topL->data);
+    //printf("The top element is: %d \n", topL->data);
 
     PopL();
 
     PrintL();
-
-
 }
